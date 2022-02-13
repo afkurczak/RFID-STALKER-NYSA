@@ -104,7 +104,7 @@ void screen()
   lcd.setCursor(0, 1);
   lcd.print("SKALIBROWANE");
   lcd.setCursor(0, 2);
-  lcd.print("FRAGMENTY KODU");
+  lcd.print("FRAGMENTY KODUl");
   if (master_card1 == 1) {
     lcd.setCursor(0, 3);
     lcd.print("XXXXX");
